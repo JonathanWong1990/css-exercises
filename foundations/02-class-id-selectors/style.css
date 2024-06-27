@@ -1,0 +1,19 @@
+.redbg {
+  background-color: rgb(243, 132, 140);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#no2 {
+  font-size: 36px;
+  color: #1e28ae;
+}
+
+.font24,
+#bigboy {
+  font-size: 24px;
+}
+
+#bigboy {
+  background-color: rgb(119, 255, 119);
+  font-weight: 900;
+}
